@@ -12,4 +12,4 @@ This is the place where I plan to opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning `Python` and `ZKP`
 - 💬 &nbsp;Ask me about anything related to `Blockchain`
 - 👨‍💻 &nbsp;Read more about my projects at (coming soon) [---](https://github.com)
-- ⚡ &nbsp;Fun fact: I started to learn my fifth language
+- ⚡ &nbsp;Fun fact: I started to learn my fifth language (🇰🇿🇷🇺🇨🇳🇬🇧)
