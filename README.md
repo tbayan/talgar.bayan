@@ -5,7 +5,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-This is the place where I plan to opensource stuff and break things :rofl:
+This is the place where I plan to open-source stuff and break things :rofl:
 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
