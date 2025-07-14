@@ -5,11 +5,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-This is the place where I plan to open-source stuff and break things :rofl:
+> 🧪 This is the place where I open-source things, break stuff, and sometimes even build cool things. 😄  
 
-
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning `Python` and `ZKP`
-- 💬 &nbsp;Ask me about anything related to `Blockchain`
-- 👨‍💻 &nbsp;Read more about my projects at (coming soon) [---](https://github.com)
-- ⚡ &nbsp;Fun fact: I started to learn my fifth language (🇰🇿🇷🇺🇨🇳🇬🇧)
+- 🎓 &nbsp; Recently graduated with a PhD in Computer Science from the University of Manchester  
+- 🛠️ &nbsp ; Currently building projects using `Flask`, `Python`, and diving deeper into full-stack prototyping  
+- 🔭 &nbsp  ;Working on something cool—stay tuned!  
+- 🌱 &nbsp; Learning more about `Zero-Knowledge Proofs (ZKP)` and advanced `Python` tooling  
+- 💬 &nbsp; Ask me anything related to `Blockchain`, `Decentralized Systems`, or `Academic Research`  
+- 👨‍💻 &nbsp; Project showcase coming soon at [---] 
+- 🌍 &nbsp; Fun fact: I speak 5 languages 🇰🇿🇷🇺🇨🇳🇬🇧 + `Code`
