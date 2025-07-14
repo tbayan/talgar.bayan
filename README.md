@@ -8,8 +8,8 @@
 > 🧪 This is the place where I open-source things, break stuff, and sometimes even build cool things. 😄  
 
 - 🎓 &nbsp; Recently graduated with a PhD in Computer Science from the University of Manchester  
-- 🛠️ &nbsp ; Currently building projects using `Flask`, `Python`, and diving deeper into full-stack prototyping  
-- 🔭 &nbsp  ;Working on something cool—stay tuned!  
+- 🛠️ &nbsp; Currently building projects using `Flask`, `Python`, and diving deeper into full-stack prototyping  
+- 🔭 &nbsp; Working on something cool—stay tuned!  
 - 🌱 &nbsp; Learning more about `Zero-Knowledge Proofs (ZKP)` and advanced `Python` tooling  
 - 💬 &nbsp; Ask me anything related to `Blockchain`, `Decentralized Systems`, or `Academic Research`  
 - 👨‍💻 &nbsp; Project showcase coming soon at [---] 
