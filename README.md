@@ -8,9 +8,9 @@
 > 🧪 This is the place where I open-source things, break stuff, and sometimes even build cool things. 😄  
 
 - 🎓 &nbsp; Recently graduated with a PhD in Computer Science from the University of Manchester  
-- 🛠️ &nbsp; Currently building projects using `Flask`, `Python`, and diving deeper into full-stack prototyping  
+- 🛠️ &nbsp; Currently building projects using `Flask`, `Python`, and diving deeper into full-stack prototyping, involving Federated Learning and healthcare projects.
 - 🔭 &nbsp; Working on something cool—stay tuned!  
 - 🌱 &nbsp; Learning more about `Zero-Knowledge Proofs (ZKP)` and advanced `Python` tooling  
-- 💬 &nbsp; Ask me anything related to `Blockchain`, `Decentralized Systems`, or `Academic Research`  
+- 💬 &nbsp; Ask me anything related to `Blockchain`, `Decentralised Systems`, or `Academic Research`  
 - 👨‍💻 &nbsp; Project showcase coming soon at [---] 
 - 🌍 &nbsp; Fun fact: I speak 5 languages 🇰🇿🇷🇺🇨🇳🇬🇧 + `Code`
