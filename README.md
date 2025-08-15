@@ -13,4 +13,4 @@
 - 🌱 &nbsp; Learning more about `Zero-Knowledge Proofs (ZKP)` and advanced `Python` tooling  
 - 💬 &nbsp; Ask me anything related to `Blockchain`, `Decentralised Systems`, or `Academic Research`  
 - 👨‍💻 &nbsp; Project showcase coming soon at [---] 
-- 🌍 &nbsp; Fun fact: I speak 5 languages 🇰🇿🇷🇺🇨🇳🇬🇧 + `Code`
+- 🌍 &nbsp; Fun fact: I speak 5 languages 🇰🇿🇨🇳🇬🇧🇷🇺 + `Code`
